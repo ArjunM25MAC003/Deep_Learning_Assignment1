@@ -85,10 +85,10 @@ All models were trained **from scratch**.
 
 ```
 .
-├── DL_assign1.ipynb          # Main Colab notebook
-├── outputs/                  # Saved plots and Grad-CAM images
-├── report.pdf                # Final submitted report
-└── README.md                 # Project documentation
+├── M25MAC003_M25MAC007_M25MAC012_M23MA2010_DLassign1.ipynb          # Main Colab notebook
+├── outputs/                                                         # Saved plots and Grad-CAM images
+├── report.pdf                                                       # Final submitted report
+└── README.md                                                        # Project documentation
 ```
 
 ---
@@ -127,7 +127,7 @@ pip install torch torchvision matplotlib numpy
 Then run:
 
 ```bash
-jupyter notebook DL_assign1.ipynb
+jupyter notebook M25MAC003_M25MAC007_M25MAC012_M23MA2010_DLassign1.ipynb.ipynb
 ```
 
 ---
